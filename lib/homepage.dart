@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -7,15 +7,11 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   //Player variables to move in x-direction
-  double playerx O;
+  double playerx = 0;
 
-  void moveLeft() {
+  void moveLeft() {}
 
-  }
-
-void moveRight() {
-
-}
+  void moveRight() {}
 
   @override
   Widget build(BuildContext context) {
@@ -45,10 +41,10 @@ void moveRight() {
         ),
         Expanded(
             child: Container(
-              color: Colors.grey,
-             )
-        ),
+          color: Colors.grey,
+        )),
       ],
     );
   }
 }
+*/
